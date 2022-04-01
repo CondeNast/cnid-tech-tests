@@ -24,7 +24,7 @@ We are only interested in the code, you **do not** need to leave your project ru
 
 ## Option 1
 
-Create a simple 'Hello World' web application (for example, php or node.js) and deploy it to a Cloud Infrastructure, such as an AWS account, using appropriate tools and best practices. 
+Create a simple 'Hello World' web application (for example, python or node.js) and deploy it to a Cloud Infrastructure, such as an AWS account, using appropriate tools and best practices. 
 
 You are expected to demonstrate containerisation, pipelines and a minimal orchestration setup of your choice.  When deployed, the root url should display 'Hello World'. 
 
