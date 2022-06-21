@@ -2,10 +2,11 @@
 
 ## Context
 
-In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. In preparation for the interview we request you complete the following task.
+In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. We do not do whiteboarding or live coding tasks in the final round, instead we ask you to complete the following task in your own time and then talk us through your approach during the interview.
 
-This is a coding exercise to help us assess candidates looking to join the Infrastructure Engineering team at Condé Nast. It is not a pass or fail, but it will be used as the basis for questions and discussion in the interview.   
-We appreciate that your time is valuable, which is why we’ve designed this exercise to be completed in around 1-2 hours. If you cannot spare the time, you may want to consider option 2.
+It is not a pass or fail, this is a candidate led starting point for dicusssion.
+
+We appreciate that your time is valuable, which is why we’ve designed this exercise to be completed in around 1-2 hours and keep the invterview rounds as lean as possible. If you cannot spare the time, you may want to consider option 2.
 
  
 ### Things we want to see
@@ -28,7 +29,6 @@ Create a simple 'Hello World' web application (for example, python or node.js) a
 
 You are expected to demonstrate containerisation, pipelines and a minimal orchestration setup of your choice.  When deployed, the root url should display 'Hello World'. 
 
-** Please note:  The application is not the important factor in this, it is the infrastructure we will want to discuss.**
 
 ## Option 2
 
@@ -42,5 +42,6 @@ If you have some personal code that you would be prepared to share with us, we c
 
 ## Submission
 
-Please submit everything as a github repo - send the details to your point of contact.  Please include a README containing any relevant information.
-You will be expected to screen share and walk us through your sumbission during the interview.
+- **Please submit everything as a github repo** - send the details to your point of contact.  
+- Please include a README containing any relevant information.
+- You will be expected to screen share and walk us through your sumbission during the interview.
