@@ -4,7 +4,7 @@ This is a coding exercise to help us assess candidates looking to join the team 
 
 ## Which test shall I pick?
  - [Software Engineer](se-test)
- - [Infrastructure/Devops Engineer](infra-task)   
+ - [Infrastructure/Cloud Platform Engineer](infra-task)   
  - [iOS Engineer](ios-task) 
  - [SRE](sre-test) 
 
