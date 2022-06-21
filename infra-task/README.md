@@ -2,9 +2,9 @@
 
 ## Context
 
-In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. We do not do whiteboarding or live coding tasks in the final round, instead we ask you to complete the following task in your own time and then talk us through your approach during the interview.
+In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. We do not do whiteboarding or live coding tasks, instead we ask you to complete the following task in your own time and talk us through your approach during the interview.
 
-It is not a pass or fail, this is a candidate led starting point for dicusssion.
+This is not a pass or fail, it is a starting point for discussion led by you.
 
 We appreciate that your time is valuable, which is why we’ve designed this exercise to be completed in around 1-2 hours and keep the invterview rounds as lean as possible. If you cannot spare the time, you may want to consider option 2.
 
