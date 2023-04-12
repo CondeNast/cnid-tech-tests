@@ -2,7 +2,8 @@
 
 ## Context
 
-In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. We do not do whiteboarding or live coding tasks, instead we ask you to complete the following task in your own time and talk us through your approach during the interview.
+In the final stage of our interview process we want to discover how you handle infrastructure day-to-day. 
+We will not do whiteboarding or live coding tasks in the interview, instead we ask you to complete the following task in your own time and talk us through your approach during the interview.
 
 This is not a pass or fail, it is a starting point for discussion led by you.
 
@@ -44,4 +45,4 @@ If you have some personal code that you would be prepared to share with us, we c
 
 - **Please submit everything as a github repo** - send the details to your point of contact.  
 - Please include a README containing any relevant information.
-- You will be expected to screen share and walk us through your sumbission during the interview.
+- You will be expected to screen share and walk us through your submission during the interview.
