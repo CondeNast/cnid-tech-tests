@@ -6,7 +6,6 @@ This is a coding exercise to help us assess candidates looking to join the team 
  - [Software Engineer](se-test)
  - [Infrastructure/Cloud Platform Engineer](infra-task)   
  - [iOS Engineer](ios-task) 
- - [SRE](sre-test) 
 
 ## How to submit code
 We prefer to see your work as a GIT repo with commits from which the app is built up.
@@ -18,9 +17,8 @@ Send the work to your **point of contact**.
 ## What we are looking for?
 These points serve as a guide on what we look for in a code submission. Not all points have to be met
  - The solution fulfils the brief
- - There is some attempt at creating documentation
- - There is a README that instructs how to run the app locally
- - There is reasonably thorough test coverage of your code (this can be unit/integration/e2e test cases)
+ - There is a README with a basic intro and intructions to run the app locally
+ - There is some test coverage of your code (this can be unit/integration/e2e test cases)
  - The file/folder structure is intuitive
  - Code style is consistent
  - Chosen technologies are appropriate
