@@ -1,7 +1,7 @@
 # Guidance to the candidate
 
 1. We want to make sure that you are a good fit to the culture and the work ethic of the team and company.
-1. Please return within 3 working days of receiving if possible, or let us know if you require additional time. 
+1. If possible please return within 3 working days of receiving. It's absolutely fine if you need more time, just let us know.
 1. This prep work is not time restricted - we do not force a minimum or. maximum time limit to complete it - though it is suggested to be completed in approximately 1-2 hours.
 1. We want to see what you can achieve within the time that you have: how you approach the task and how you deal with the complexity of the solution.
 1. We know you have good infrastructure and operations background. We want you to demonstrate that experience in the short time you take on this task.
