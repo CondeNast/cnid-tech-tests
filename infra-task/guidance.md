@@ -7,6 +7,5 @@
 1. We know you have good infrastructure and operations background. We want you to demonstrate that experience in the short time you take on this task.
 1. We'd like to see you understand basic application development and deployment, but the infrastructure is the bit we want you to focus on.
 1. We want to see how you develop your infrastructure and how you apply good DevOps principles.
-1. We are a software engineering team and have an expectation of your ability to handle code. We want to see that your workflow is suitable to our team. 
 1. We want you to apply the information you have gained from talking to us (and others) to the solution if possible.
 1. Documentation is important! Our team is a group of skilled Infrastructure Developers who work with skilled Application Developers and we like docs that are easy to follow for both.
