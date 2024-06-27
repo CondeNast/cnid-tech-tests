@@ -23,4 +23,4 @@ These points serve as a guide on what we look for in a code submission. Not all 
  - Code style is consistent
  - Chosen technologies are appropriate
  - Complex sections of code are readable/commented/justified
- - Not over-simplified or over-engineered
+ - Not over-simplified or over-engineered 
